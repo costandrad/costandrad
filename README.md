@@ -96,6 +96,7 @@
     />
 </p>
 
+###
 ---  
 
 🔹 **Disponível para colaborações acadêmicas e projetos científicos.**
