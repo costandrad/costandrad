@@ -2,6 +2,16 @@
 
 *Mestre em Matemática | Bacharel em Ciências Contábeis | Licenciado em Física*  
 
+<p align="left">
+  <a href="mailto:costandrad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&width=200&height=36" alt="Email" style="vertical-align:top;">
+  </a>
+  
+  <a href="http://lattes.cnpq.br/9812776894168057" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-1E90FF?style=flat-square&logo=google-scholar&logoColor=white&width=200&height=36" alt="Latter" style="vertical-align:top;">
+  </a>
+</p>
+
 ## 📚 Formação Acadêmica  
 - **Mestrado em Matemática** – Universidade Federal do Tocantins (UFT), 2014  
 - **Bacharelado em Ciências Contábeis** – Universidade Federal do Tocantins (UFT), 2022  
@@ -16,22 +26,23 @@
  
 
 ## 💻 Tecnologias e Ferramentas  
-- **Linguagens:** Python, R 
-- **Ferramentas Científicas:** LaTeX 
-- **Bancos de Dados e Análise:** SQL, Excel Avançado, Power BI  
+
+### Linguagens
+<div style="display: block">
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+/>
+</div>
 
 
+### Ferramentas Científicas
+### Bancos de Dados e Análise 
 
-## 📫 Contato  
-<p>
-  <a href="mailto:costandrad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&width=200&height=36" alt="Email" style="vertical-align:top;">
-  </a>
-  
-  <a href="http://lattes.cnpq.br/9812776894168057" target="_blank">
-    <img src="https://img.shields.io/badge/Lattes-1E90FF?style=flat-square&logo=google-scholar&logoColor=white&width=200&height=36" alt="Latter" style="vertical-align:top;">
-  </a>
-</p>
 
 ---  
 
