@@ -58,7 +58,7 @@
     title="Latex"
     width="30px"
     style="padding-right: 10px; filter: invert(1) brightness(1.5);"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
+    src="assets/icons/latex-original.svg"
 />
 
 </br>
