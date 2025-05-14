@@ -95,10 +95,3 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=costandrad&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br&layout=compact&lang_count=9"
     />
 </p>
-
-###
----  
-
-🔹 **Disponível para colaborações acadêmicas e projetos científicos.**
-
-*(Atualizado em Maio de 2025)*  
