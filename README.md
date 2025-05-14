@@ -56,11 +56,12 @@
     align="left"
     alt="Latex"
     title="Latex"
-    width="30px"
+    width="50px"
     style="padding-right: 10px; filter: invert(1) brightness(1.5);"
     src="assets/icons/latex-original.svg"
 />
 
+</br>
 </br>
 
 
