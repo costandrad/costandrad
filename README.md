@@ -28,30 +28,74 @@
 ## 💻 Tecnologias e Ferramentas  
 
 ### Linguagens
-<div style="display: block">
+
 <img 
     align="left"
     alt="Python"
     title="Python"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-</div>
 
+
+<img 
+    align="left"
+    alt="R"
+    title="R"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
+/>
+
+          
+</br>
 
 ### Ferramentas Científicas
+<img 
+    align="left"
+    alt="Latex"
+    title="Latex"
+    width="30px"
+    style="padding-right: 10px; filter: invert(1) brightness(1.5);"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg"
+/>
+
+</br>
+
+
 ### Bancos de Dados e Análise 
+<img 
+    align="left"
+    alt="SQL"
+    title="SQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>      
 
+</br>
+</br>
 
----  
+## 📊 Estatísticas
 
-### 🔎 Sobre Mim  
-Profissional com formação multidisciplinar em **Matemática, Física e Ciências Contábeis**, atuando há mais de uma década no ensino superior e pesquisa. Minha abordagem é **racional, baseada em evidências e orientada por métodos quantitativos**.  
+<p>
+    <img 
+        align="left"
+        alt="Github Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=costandrad&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
+    />
+    <img 
+        align="left"
+        alt="Github Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=costandrad&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
+    />
+</p>
 
-*"A ciência não apenas descreve a realidade, mas nos permite questioná-la de forma sistemática."*  
-
----  
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=costandrad&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true)  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=costandrad&layout=compact&theme=algolia&hide_border=true)  
