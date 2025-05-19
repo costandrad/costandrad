@@ -2,19 +2,12 @@
 
 _Mestre em Matemática | Bacharel em Ciências Contábeis | Licenciado em Física_
 
-<p align="left">
-  <a href="https://costandrad.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-gray?logo=github&width=200&height=36" alt="Github Pages" style="vertical-align:top;">
-  </a>
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-gray?logo=github&width=200&height=36)](https://costandrad.github.io/)
 
-  <a href="mailto:costandrad@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-white?logo=gmail&width=200&height=36" alt="Email" style="vertical-align:top;">
-  </a>
+[![Email](https://img.shields.io/badge/Email-white?logo=gmail&width=200&height=36)](mailto:costandrad@gmail.com)
 
-  <a href="http://lattes.cnpq.br/9812776894168057" target="_blank">
-    <img src="https://img.shields.io/badge/Lattes-blue?logo=google-scholar&logoColor=white&width=200&height=36" alt="Lattes" style="vertical-align:top;">
-  </a>
-</p>
+[![Lattes](https://img.shields.io/badge/Lattes-blue?logo=google-scholar&logoColor=white&width=200&height=36)](http://lattes.cnpq.br/9812776894168057)
+
 
 ## 📚 Formação Acadêmica
 
