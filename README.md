@@ -1,31 +1,37 @@
 # Igo da Costa Andrade
 
-*Mestre em Matemática | Bacharel em Ciências Contábeis | Licenciado em Física*  
+_Mestre em Matemática | Bacharel em Ciências Contábeis | Licenciado em Física_
 
 <p align="left">
+  <a href="https://costandrad.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-online-blue?logo=github" alt="Github Pages" style="vertical-align:top;">
+  </a>
+
   <a href="mailto:costandrad@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&width=200&height=36" alt="Email" style="vertical-align:top;">
   </a>
   
   <a href="http://lattes.cnpq.br/9812776894168057" target="_blank">
-    <img src="https://img.shields.io/badge/Lattes-1E90FF?style=flat-square&logo=google-scholar&logoColor=white&width=200&height=36" alt="Latter" style="vertical-align:top;">
+    <img src="https://img.shields.io/badge/Lattes-1E90FF?style=flat-square&logo=google-scholar&logoColor=white&width=200&height=36" alt="Lattes" style="vertical-align:top;">
   </a>
 </p>
 
-## 📚 Formação Acadêmica  
-- **Mestrado em Matemática** – Universidade Federal do Tocantins (UFT), 2014  
-- **Bacharelado em Ciências Contábeis** – Universidade Federal do Tocantins (UFT), 2022  
-- **Licenciatura Plena em Física** – Instituto Federal do Piauí (IFPI), 2009  
+## 📚 Formação Acadêmica
 
-## ⚛️ Experiência Profissional  
+- **Mestrado em Matemática** – Universidade Federal do Tocantins (UFT), 2014
+- **Bacharelado em Ciências Contábeis** – Universidade Federal do Tocantins (UFT), 2022
+- **Licenciatura Plena em Física** – Instituto Federal do Piauí (IFPI), 2009
+
+## ⚛️ Experiência Profissional
+
 **Físico Responsável Técnico**  
-*Universidade Federal do Tocantins (UFT) – Campus Palmas | Desde 2009*  
-- Gestão e operação do **Laboratório de Ensino de Física**  
-- Desenvolvimento de experimentos didáticos e metodologias de ensino  
-- Supervisão de projetos de pesquisa em física aplicada e matemática  
- 
+_Universidade Federal do Tocantins (UFT) – Campus Palmas | Desde 2009_
 
-## 💻 Tecnologias e Ferramentas  
+- Gestão e operação do **Laboratório de Ensino de Física**
+- Desenvolvimento de experimentos didáticos e metodologias de ensino  
+  #- Supervisão de projetos de pesquisa em física aplicada e matemática
+
+## 💻 Tecnologias e Ferramentas
 
 ### Linguagens
 
@@ -38,7 +44,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
 <img 
     align="left"
     alt="R"
@@ -48,10 +53,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"
 />
 
-          
 </br>
 
 ### Ferramentas Científicas
+
 <img 
     align="left"
     alt="Latex"
@@ -64,8 +69,8 @@
 </br>
 </br>
 
+### Bancos de Dados e Análise
 
-### Bancos de Dados e Análise 
 <img 
     align="left"
     alt="SQL"
@@ -73,7 +78,7 @@
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>      
+/>
 
 </br>
 </br>
